@@ -1,0 +1,4 @@
+To compile: type <make>
+To run:<.\kneighboor> <arg1|u.data_file> <arg2|u.item_file> <kvalue|knn_K_Value>
+e.g
+./kneighboor  u.data u.item 4
